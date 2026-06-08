@@ -1,0 +1,22 @@
+{
+  "style": "base-luma",
+  "rsc": false,
+  "tsx": false,
+  "rtl": false,
+  "menuColor": "default",
+  "menuAccent": "subtle",
+  "iconLibrary": "lucide",
+  "tailwind": {
+    "cssVariables": true,
+    "css": "src/styles/globals.css",
+    "baseColor": "neutral"
+  },
+  "aliases": {
+    "components": "@/components",
+    "ui": "@/components/ui",
+    "lib": "@/lib",
+    "utils": "@/lib/utils",
+    "hooks": "@/hooks"
+  },
+  "registries": {}
+}
